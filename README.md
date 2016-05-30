@@ -1,3 +1,7 @@
-o ## El meu projecte
+## El meu projecte
 
-o Aquest projecte és una prova per veure com funciona Git i Github.
+Aquest projecte és una prova per veure com funciona Git i Github.
+
+
+- Detalle 1
+- Detalle 2
