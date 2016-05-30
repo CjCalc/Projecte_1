@@ -1,5 +1,4 @@
-## El meu projecte
-
+## PROJECTE DE HECTOR MARIN
 Aquest projecte és una prova per veure com funciona Git i Github.
 
 
